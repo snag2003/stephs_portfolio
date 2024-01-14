@@ -1,0 +1,110 @@
+.header {
+  background-color: #f6f5f0;
+  padding: 40px;
+  border-radius: 20px;
+  position: relative;
+  margin-bottom: 40px;
+}
+
+.header__info {
+  display: flex;
+}
+
+.header__avatar-box {
+  margin: 0;
+}
+
+.header__avatar-box img {
+  width: 120px;
+  border-radius: 30px;
+}
+
+.header__content {
+  margin: auto 3%;
+}
+
+.header__name {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.header__title {
+  font-size: 12px;
+  background-color: #fed8d1;
+  padding: 3px 12px;
+  border-radius: 8px;
+}
+
+.header__show-btn {
+  background-color: #ced6e0;
+  color: #555;
+  border: none;
+  cursor: pointer;
+  border-radius: 0 20px;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  padding: 10px 15px;
+}
+
+.header__separator {
+  height: 1px;
+  background-color: #ccc;
+  margin: 20px 0;
+}
+
+.header__contacts-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.header__contact-item {
+  flex: 1 1 calc(50% - 20px);
+  display: flex;
+  align-items: center;
+}
+
+.header__icon-box {
+  margin-right: 10px;
+  border-radius: 20%;
+  background-color: #f3d8d1;
+  padding: 10px;
+}
+
+.header__logo {
+  width: 20px;
+}
+.header__contact-info {
+  flex: 1;
+}
+
+.header__contact-title {
+  font-weight: bold;
+  margin-bottom: 5px;
+  margin-top: 0;
+}
+
+.header__contact-link,
+time,
+address {
+  margin: 0;
+  text-decoration: none;
+  color: black;
+}
+
+.header__social-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.inactive {
+  display: none;
+}

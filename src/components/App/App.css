@@ -1,0 +1,15 @@
+.app {
+  margin: 50px;
+  border-radius: 2%;
+  position: relative;
+  width: 80vw;
+}
+
+.main {
+  background-color: white;
+  position: relative;
+  background-color: #f6f5f0;
+  padding: 40px;
+  border-radius: 20px;
+  margin-bottom: 40px;
+}
