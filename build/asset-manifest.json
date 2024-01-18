@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/stephs_portfolio/static/css/main.b90ceff4.css",
+    "main.js": "/stephs_portfolio/static/js/main.b231dcf4.js",
+    "static/js/787.5747366d.chunk.js": "/stephs_portfolio/static/js/787.5747366d.chunk.js",
+    "static/media/projecto0_aficiones.png": "/stephs_portfolio/static/media/projecto0_aficiones.a9f3d68fa586c4e0e867.png",
+    "static/media/projecto1_aprender.png": "/stephs_portfolio/static/media/projecto1_aprender.d1feda0b0e379347efc2.png",
+    "static/media/projecto3_patriaapatria.png": "/stephs_portfolio/static/media/projecto3_patriaapatria.abf2365f4e7b473295cd.png",
+    "static/media/profile_pic.jpg": "/stephs_portfolio/static/media/profile_pic.00ab32b56c77a08b7818.jpg",
+    "static/media/aroundus.png": "/stephs_portfolio/static/media/aroundus.e819d91397c639f9b97e.png",
+    "static/media/SpotifyApp.png": "/stephs_portfolio/static/media/SpotifyApp.4eb5de0a47a9bd165021.png",
+    "static/media/crochet-logo.webp": "/stephs_portfolio/static/media/crochet-logo.46dc653deab3af161718.webp",
+    "static/media/development-logo.svg": "/stephs_portfolio/static/media/development-logo.165be1c707d5551360ef71b7a14ebb2b.svg",
+    "static/media/reading-logo.webp": "/stephs_portfolio/static/media/reading-logo.f0381e2e7ec075cffe8f.webp",
+    "static/media/calendar-logo.svg": "/stephs_portfolio/static/media/calendar-logo.6100d7cc63b7eb905a537d277481b350.svg",
+    "static/media/location-point-logo.svg": "/stephs_portfolio/static/media/location-point-logo.c8e586701eaf88e966317af3c72b0a13.svg",
+    "static/media/email-logo.svg": "/stephs_portfolio/static/media/email-logo.2cf8522ee1c8fe6b8a5e61d04c0754a6.svg",
+    "static/media/linkedin-logo.svg": "/stephs_portfolio/static/media/linkedin-logo.417e97e8b4919c6724674d253204af1b.svg",
+    "static/media/cell-phone-logo.svg": "/stephs_portfolio/static/media/cell-phone-logo.b2b2255287b3199f89ed071c6d4e077f.svg",
+    "static/media/github-logo.svg": "/stephs_portfolio/static/media/github-logo.b5df25fc6ab44357a19bd34c728b9e01.svg",
+    "index.html": "/stephs_portfolio/index.html",
+    "main.b90ceff4.css.map": "/stephs_portfolio/static/css/main.b90ceff4.css.map",
+    "main.b231dcf4.js.map": "/stephs_portfolio/static/js/main.b231dcf4.js.map",
+    "787.5747366d.chunk.js.map": "/stephs_portfolio/static/js/787.5747366d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b90ceff4.css",
+    "static/js/main.b231dcf4.js"
+  ]
+}
