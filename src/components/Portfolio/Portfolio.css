@@ -1,0 +1,92 @@
+/* Portfolio Styles */
+.portfolio {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.project-list {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.project-item {
+  flex: 1 1 calc(33.33% - 20px);
+  background-color: #dfd8d8;
+  border-radius: 5px;
+  overflow: hidden;
+  transition: transform 0.3s ease-in-out;
+}
+
+.project-item:hover {
+  transform: scale(1.05);
+}
+
+.project-img {
+  position: relative;
+  overflow: hidden;
+}
+
+.project-item-icon-box {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+  font-size: 24px;
+}
+
+.project-img img {
+  width: 100%;
+  height: auto;
+  border-bottom: 2px solid #fff; /* Add a border to separate image and text */
+}
+
+.project-title {
+  font-size: 1.2em;
+  margin: 10px;
+}
+
+.project-category {
+  color: #777;
+  margin: 10px;
+}
+
+/* Optional: Add media queries for responsiveness */
+@media (max-width: 768px) {
+  .project-item {
+    flex: 1 1 calc(50% - 20px);
+  }
+}
+
+@media (max-width: 480px) {
+  .project-item {
+    flex: 1 1 100%;
+  }
+}
+
+.project-buttons {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.button {
+  display: inline-block;
+  padding: 8px 15px;
+  margin: 0 5px;
+  background-color: #a37972;
+  color: #fff;
+  text-decoration: none;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.button:hover {
+  background-color: #f8b5a9;
+}

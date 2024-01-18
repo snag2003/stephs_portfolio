@@ -4,6 +4,13 @@
 
 @import url(./components/NavBar/NavBar.css);
 
+@import url(./components/About/About.css);
+
+@import url(./components/Resume/Resume.css);
+
+@import url(./components/Portfolio/Portfolio.css);
+
+@import url(./components/Contact/Contact.css);
 body {
   font-family: "Arial", sans-serif;
   font-size: 16px;
