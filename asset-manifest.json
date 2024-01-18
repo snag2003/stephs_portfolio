@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/stephs_portfolio/static/css/main.b90ceff4.css",
-    "main.js": "/stephs_portfolio/static/js/main.333d8310.js",
+    "main.js": "/stephs_portfolio/static/js/main.6aa639ce.js",
     "static/js/787.5747366d.chunk.js": "/stephs_portfolio/static/js/787.5747366d.chunk.js",
     "static/media/projecto0_aficiones.png": "/stephs_portfolio/static/media/projecto0_aficiones.a9f3d68fa586c4e0e867.png",
     "static/media/projecto1_aprender.png": "/stephs_portfolio/static/media/projecto1_aprender.d1feda0b0e379347efc2.png",
@@ -20,11 +20,11 @@
     "static/media/github-logo.svg": "/stephs_portfolio/static/media/github-logo.b5df25fc6ab44357a19bd34c728b9e01.svg",
     "index.html": "/stephs_portfolio/index.html",
     "main.b90ceff4.css.map": "/stephs_portfolio/static/css/main.b90ceff4.css.map",
-    "main.333d8310.js.map": "/stephs_portfolio/static/js/main.333d8310.js.map",
+    "main.6aa639ce.js.map": "/stephs_portfolio/static/js/main.6aa639ce.js.map",
     "787.5747366d.chunk.js.map": "/stephs_portfolio/static/js/787.5747366d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b90ceff4.css",
-    "static/js/main.333d8310.js"
+    "static/js/main.6aa639ce.js"
   ]
 }
